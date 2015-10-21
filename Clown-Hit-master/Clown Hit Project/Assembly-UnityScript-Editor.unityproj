@@ -177,10 +177,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="EasyRoads3DEditor">
- <HintPath>C:/Users/cmathies/Desktop/Clown-Hit-master/Clown Hit Project/Assets/EasyRoads3D Free/Editor/EasyRoads3DEditor.dll</HintPath>
+ <HintPath>C:/Users/cmathies/Desktop/GitHub/Space-Hit/Clown-Hit-master/Clown Hit Project/Assets/EasyRoads3D Free/Editor/EasyRoads3DEditor.dll</HintPath>
  </Reference>
  <Reference Include="EasyRoads3D">
- <HintPath>C:/Users/cmathies/Desktop/Clown-Hit-master/Clown Hit Project/Assets/EasyRoads3D Free/lib/EasyRoads3D.dll</HintPath>
+ <HintPath>C:/Users/cmathies/Desktop/GitHub/Space-Hit/Clown-Hit-master/Clown Hit Project/Assets/EasyRoads3D Free/lib/EasyRoads3D.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
