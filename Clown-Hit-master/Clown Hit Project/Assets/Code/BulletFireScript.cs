@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 public class BulletFireScript : MonoBehaviour {
 	
-	//public float fireTime = 1f;
-	//public 
+	public float fireTime = 1f;
 	public float reload = .05f;
 	public GameObject bullet;
 	
